@@ -5,10 +5,6 @@ html {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
-div {
-  padding: 5px;
-  border-style: solid;
-}
 a:link {
   color: #fff9e8;
   background-color: transparent;
