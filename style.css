@@ -36,6 +36,12 @@ h2 {
   font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
   font-size: 200%;
 }
+h3 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 270%;
+  text-decoration-line: underline;
+}
 
 p {
   color: white;
