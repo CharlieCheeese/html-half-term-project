@@ -61,3 +61,6 @@ p.a {
   background-color: #424242;
   text-align: right;
 }
+img {
+  border: 5px solid black;
+}
